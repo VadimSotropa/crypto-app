@@ -1,6 +1,0 @@
-[submodule "crypto-app"]
-	path = crypto-app
-	url = https://github.com/VadimSotropa/crypto-app.git
-[submodule "crypto-hub-front"]
-	path = crypto-hub-front
-	url = https://github.com/VadimSotropa/crypto-hub-front.git
