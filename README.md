@@ -21,7 +21,7 @@ Favorites list: Users can save their favorite cryptocurrencies to a favorites li
 
 Deployment: The backend was deployed on Heroku for easy access.
 
-## Link for backend: 
+## Link for backend: https://github.com/VadimSotropa/auth.git
 
 # Conclusion
 Overall, this app is a great example of how frontend and backend technologies can work together to provide a seamless user experience. By using React, Chart.js, and Recoil on the frontend, and Node.js, Express.js, and MongoDB on the backend, we were able to create an app that is both user-friendly and highly functional. We hope that this project will serve as a useful reference for other developers looking to build similar apps.
